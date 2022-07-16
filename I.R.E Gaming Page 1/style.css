@@ -1,0 +1,144 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+}
+body {
+    background-color: white
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nav {
+    color: black;
+    background-color: black;
+    padding: 14px 12px
+}
+.nav a {
+    color: white;
+    padding: 14px 12px;
+    height: 100%;
+    font-size: 20px;
+}
+.nav a:hover {
+    color: blueviolet;
+}
+/* .myslides{
+    display: none;
+}
+img{vertical-align: middle;} */
+/* slidesshow */
+/* .slidesshow{
+    width: 100%;
+    position: relative;
+
+}
+.prev, .next{
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+.prev:hover, .next:hover{
+    background-color: white;
+}
+.text{
+    color: black;
+    font-size: 32px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width:100%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.numbertext{
+    color: black;
+    font-size: 20px;
+    padding: 8px 12px;
+    position: absolute;
+
+}
+.dot{
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+.active, .dot:hover{
+    background-color: #717171;
+}
+.fade{
+    animation-name: fade ;
+    animation-duration: 1.5s;
+}
+@keyframes fade{
+    from{opacity:.4}
+    to{opacity:1}
+}
+@media only screen and (max-width: 300px) {
+    .prev, .next,.text {font-size: 11px}
+  }
+.myslides img{
+      width: 100%;
+  } */
+
+
+.sub{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px 20px 10px;
+}
+.si{
+    font-size: 15px;
+    margin: 10px 20px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}   
+.video{
+    margin: 20px 20px 20px;
+}
+.thuw{
+    display: flex;
+    margin: 30px 30px 30px;
+}
+.u{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin: 20px 20px 20px;
+    color: red;
+}
+#footer{
+    font-size: 20px;
+    background-color: #9cd4ec;
+    display: flex;
+    justify-content: space-around;
+}
+.m{
+    margin: 10px 10px 10px;
+}
+#c{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    background-color: red;
+}
+
+
+  
